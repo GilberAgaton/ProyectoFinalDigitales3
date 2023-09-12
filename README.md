@@ -2,13 +2,19 @@
 Integrantes: Mateo Bravo, Gabriel Restrepo, Gilber Agatón
 
 -Por favor ingrese un nombre para su proyecto.
+
 GreenPiTech: Invernadero Inteligente
+
 -Por favor liste todos los integrantes que trabajarán en el proyecto final con nombre completo y documento de identidad.
+
 Gabriel Andres Restrepo Izquierdo - DI 1003046790
+
 GILBER CAMILO AGATON SAMBONI - DI 1117549205
+
 Mateo Alejandro Bravo Revelo- DI 1010156637
 
 -¿Cuál es su idea de proyecto final?
+
 "GreenPiTech: Invernadero Inteligente" es un emocionante proyecto que combina la tecnología avanzada de la Raspberry Pi Pico W con la pasión por la jardinería y la sostenibilidad. Este proyecto tiene como objetivo crear un invernadero completamente automatizado que ofrezca un control preciso de las condiciones ambientales, como la temperatura, la humedad y la luz, para brindar a las plantas el ambiente perfecto para crecer de manera óptima. A través de una interfaz intuitiva, los usuarios podrán monitorear y ajustar estas condiciones desde cualquier lugar, lo que les permitirá cultivar una variedad de plantas de manera eficiente y sostenible. "GreenPiTech" es la combinación perfecta de tecnología y naturaleza, llevando la jardinería a un nivel completamente nuevo. 
 
 -Haga una lista de todos los requisitos funcionales con los que deberá cumplir su proyecto en la entrega final.
