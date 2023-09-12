@@ -17,7 +17,7 @@ Mateo Alejandro Bravo Revelo- DI 1010156637
 
 "GreenPiTech: Invernadero Inteligente" es un emocionante proyecto que combina la tecnología avanzada de la Raspberry Pi Pico W con la pasión por la jardinería y la sostenibilidad. Este proyecto tiene como objetivo crear un invernadero completamente automatizado que ofrezca un control preciso de las condiciones ambientales, como la temperatura, la humedad y la luz, para brindar a las plantas el ambiente perfecto para crecer de manera óptima. A través de una interfaz intuitiva, los usuarios podrán monitorear y ajustar estas condiciones desde cualquier lugar, lo que les permitirá cultivar una variedad de plantas de manera eficiente y sostenible. "GreenPiTech" es la combinación perfecta de tecnología y naturaleza, llevando la jardinería a un nivel completamente nuevo. 
 
--Haga una lista de todos los requisitos funcionales con los que deberá cumplir su proyecto en la entrega final.
+-Haga una lista de todos los requisitos funcionales con los que deberá cumplir su proyecto en la entrega final:
 
 Monitoreo de temperatura, humedad y luz ambiental.
 Control remoto de temperatura, humedad y riego.
@@ -26,7 +26,7 @@ Notificaciones de alerta en tiempo real.
 Eficiencia energética y programación de horarios.
 Documentación completa.
 
--Haga una lista de todos los requisitos NO funcionales con los que deberá contar su proyecto en la entrega final.
+-Haga una lista de todos los requisitos NO funcionales con los que deberá contar su proyecto en la entrega final:
 
 Rendimiento: Respuesta rápida y eficiente a las solicitudes.
 Escalabilidad: Capacidad de expandir el sistema sin afectar el rendimiento.
