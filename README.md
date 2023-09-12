@@ -40,6 +40,31 @@ Cumplimiento Normativo: Cumplimiento con regulaciones locales aplicables.
 -Liste todos los componentes y gastos que crea requerirá su proyecto con sus respectivos valores. Estime el costo total del proyecto. Describa cómo se cubrirán esos costos.
 greenpitech
 
+objeto	                                                                                referencia                    	Costo
+Raspberry Pi Pico W: El microcontrolador central con Wi-Fi.                           	pico-W                        	43723
+Sensores Ambientales:	Sensor de temperatura y humedad.	                                DHT11	                         8207
+Sensor de luz ambiental.	                                                              TEMT6000	                      8211
+Sensor de humedad del suelo.	                                                          SEN-HUM-SUELO	                 4200
+Actuadores:	Ventiladores o extractores.	                                               vent-5v	                       7500
+Bombas de agua.	mic-bomb-agua+sens-nivel-agua	                                                                        25000
+Persianas o cortinas.	                                                             42HS34-0404 + plastico	            121000
+Interfaz Humano-Máquina (HMI):		
+	programa web	0
+Pantalla táctil o interfaz web.		
+Módulos de Comunicación:		
+		
+Módulo Wi-Fi.	wifi de la tarjeta pico-w	
+Módulo Bluetooth o GSM/GPRS.		0
+		
+Fuente de Alimentación: Adaptadores de energía y baterías si es necesario.	depende de circuito	                      *******
+Carcasa o Estructura: Para proteger y organizar los componentes.	depende de dimenciones	                             *******
+		
+Base de Datos o Almacenamiento: Si se utiliza una base de datos en la nube, habrá costos asociados.	por ver 	        *******
+Sistema de Alarma: Componentes de alarma, si es necesario.	buzzer	                                                     2000
+Documentación: Costos de impresión o publicación de manuales.		
+		
+Total		                                                                                                               219841
+
 -Cree un repositorio público en GitHub donde se consignará toda la información del proyecto. Incluya el archivo de README con la información consignada en este cuestionario. Responda a esta pregunta con el enlace al repositorio de GitHub.
  añadir enlace de github
  
